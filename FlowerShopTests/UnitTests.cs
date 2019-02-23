@@ -1,4 +1,6 @@
 using NUnit.Framework;
+using Moq;
+using FlowerShop;
 
 namespace Tests
 {
@@ -12,7 +14,22 @@ namespace Tests
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+          // Arrange
+            var isdeliveredmock = new Mock<IOrderDAO>();
+            isdeliveredmock.Setup((m => m.SetDelivered(It.IsAny<IOrder>())));
+
+            var client1 = new Mock<IClient>();
+            IOrder order1 = new Order(isdeliveredmock.Object,client1.Object);
+            //ACT
+            order1.Deliver();
+            
+
+            //Assert
+            isdeliveredmock.Verify(m => m.SetDelivered(It.IsAny<IOrder>()),Times.Once());
+
+
+
+            
         }
     }
 }
