@@ -31,5 +31,23 @@ namespace Tests
 
             
         }
+        [Test]
+        public void Test2()
+        {
+            // Arrange
+            var flower1 = new Mock<IFlower>();
+            var order1 = new Mock<IOrder>();
+
+            //ACT
+
+
+
+            //Assert
+            Assert.AreEqual(flower1.Object.Cost, order1.Object.Price);
+
+
+
+
+        }
     }
 }
