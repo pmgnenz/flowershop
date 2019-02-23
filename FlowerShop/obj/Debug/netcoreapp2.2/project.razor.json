@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\GIBZ\\Documents\\MyStuff\\flowershop\\FlowerShop\\FlowerShop.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

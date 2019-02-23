@@ -1,0 +1,17 @@
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.deps.json
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.runtimeconfig.json
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.runtimeconfig.dev.json
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.dll
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.pdb
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShop.dll
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShop.pdb
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csprojAssemblyReference.cache
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csproj.CoreCompileInputs.cache
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.AssemblyInfoInputs.cache
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.AssemblyInfo.cs
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csproj.CopyComplete
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.dll
+C:\Users\GIBZ\Documents\MyStuff\flowershop\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.pdb

@@ -21,7 +21,7 @@ namespace Tests
             var client1 = new Mock<IClient>();
             IOrder order1 = new Order(isdeliveredmock.Object,client1.Object);
             //ACT
-            order1.Deliver();
+            order1.Deliver(isdeliveredmock.Object);
             
 
             //Assert
